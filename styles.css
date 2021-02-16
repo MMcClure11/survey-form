@@ -25,7 +25,7 @@ body {
   line-height: 1.4;
   color: whitesmoke;
   margin: 0;
-  background-color: teal;
+  background-color: rgba(58, 58, 158, 0.8);
 }
 
 /* @media (min-width: 576px)
