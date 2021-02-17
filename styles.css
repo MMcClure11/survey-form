@@ -106,3 +106,9 @@ input, button, select, textarea {
   font-size: inherit;
   line-height: inherit;
 }
+
+.clue {
+  margin-left: 0.25rem;
+  font-size: 0.9rem;
+  color: #e4e4e4;
+}
