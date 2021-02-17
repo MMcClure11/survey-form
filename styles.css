@@ -29,10 +29,11 @@ body::before {
   background-position: center;
 }
 
-/* @media (min-width: 576px)
-.container {
-  max-width: 540px;
-} */
+@media (min-width: 768px) {
+  .container {
+      max-width: 720px;
+  }
+}
 
 div {
   display: block;
