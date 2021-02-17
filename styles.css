@@ -113,7 +113,7 @@ input, button, select, textarea {
   color: #e4e4e4;
 }
 
-.input-radio {
+.input-radio, .input-checkbox {
   display: inline-block;
   margin-right: 0.625rem;
   min-height: 1.25rem;
