@@ -1,8 +1,6 @@
 * {
   box-sizing: border-box;
 }
-*::before,
-*::after,
 
 body {
   font-family: 'Poppins', sans-serif;
@@ -68,6 +66,8 @@ p {
   font-size: 1.125rem;
 }
 
+/* Recommend using classes instead of elements */
+
 #description {
   font-style: italic;
   font-weight: 200;
@@ -86,8 +86,6 @@ form {
 }
 
 label {
-  display: flex;
-  align-items: center;
   font-size: 1.125rem;
   margin-bottom: 0.5rem;
 }
